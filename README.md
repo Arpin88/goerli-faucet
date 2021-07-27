@@ -1,6 +1,6 @@
 ## Görli Testnet faucet
 
-This Faucet is based on https://github.com/poanetwork/poa-faucet
+This Faucet is based on https://github.com/https://github/goerli-faucet
 
 ### Building from source
 
